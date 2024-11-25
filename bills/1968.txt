@@ -1,0 +1,19 @@
+	 Welcome Shopping Mall
+ Bill Number:1968
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+========================================= Santoor		1		27
+ Santoor		1		27
+ Santoor		1		27
+
+========================================
+ Sub Amount:			Rs.162.00
+
+========================================
+ Sub Amount:			Rs.162.00
+ Tax Amount:			Rs.1.35
+ Total Amount:			Rs.163.35
+=========================================

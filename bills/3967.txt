@@ -1,0 +1,15 @@
+	 Welcome Shopping Mall
+ Bill Number:3967
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ =========================================
+ Product		QTY		Price
+========================================= Mufti		1		6000
+ Spykar		1		7000
+
+ ========================================
+ Sub Amount:			Rs.18000.00
+ Tax Amount:			Rs.110.00
+ Total Amount:			Rs.18110.00
+========================================

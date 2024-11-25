@@ -1,0 +1,18 @@
+	 Welcome Shopping Mall
+ Bill Number:4950
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ =========================================
+ Product		QTY		Price
+ =========================================
+ LifeBuy		1		20
+ Lux		1		25
+ Santoor		1		27
+ Pearl		1		30
+
+ ========================================
+ Sub Amount:			Rs.102.00
+ Tax Amount:			Rs.0.72
+ Total Amount:			Rs.102.72
+ ========================================

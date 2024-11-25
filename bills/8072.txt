@@ -1,0 +1,18 @@
+	 Welcome Shopping Mall
+ Bill Number:8072
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+========================================= Roadster		1		1800
+ Roadster		1		1800
+ Roadster		1		1800
+ Roadster		1		1800
+ Roadster		1		1800
+
+  ========================================
+ Sub Amount:			Rs.10800.00
+ Tax Amount:			Rs.90.00
+ Total Amount:			Rs.10890.00
+  =========================================

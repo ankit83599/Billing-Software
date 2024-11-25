@@ -1,0 +1,21 @@
+	 Welcome Shopping Mall
+ Bill Number:1331
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+========================================= Fair&Lovely		1		25
+ Fair&Lovely		1		25
+ Fair&Lovely		1		25
+ Fair&Lovely		1		25
+ Fair&Lovely		1		25
+
+ ========================================
+ Sub Amount:			Rs.200.00
+
+ ========================================
+ Sub Amount:			Rs.200.00
+ Tax Amount:			Rs.1.75
+ Total Amount:			Rs.201.75
+=========================================

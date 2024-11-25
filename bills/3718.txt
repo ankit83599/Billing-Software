@@ -1,0 +1,13 @@
+	 Welcome Shopping Mall
+ Bill Number:3718
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+=========================================
+========================================
+ Sub Amount:			Rs.5000.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.5000.00
+=========================================

@@ -1,0 +1,14 @@
+	 Welcome Shopping Mall
+ Bill Number:2057
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+========================================= Levis		1		5000
+
+========================================
+ Sub Amount:			Rs.11000.00
+ Tax Amount:			Rs.60.00
+ Total Amount:			Rs.11060.00
+=========================================

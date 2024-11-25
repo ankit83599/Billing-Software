@@ -1,0 +1,13 @@
+	 Welcome Shopping Mall
+ Bill Number:6350
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+=========================================
+ ==============================================
+ Sub Amount:			Rs.25.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.25.00
+===============================================

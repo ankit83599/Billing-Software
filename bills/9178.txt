@@ -1,0 +1,18 @@
+	 Welcome Shopping Mall
+ Bill Number:9178
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+=========================================
+ Levis		1		5000
+ Mufti		1		6000
+ Spykar		1		7000
+ Jack&Jones		1		1700
+
+========================================
+ Sub Amount:			Rs.19700.00
+ Tax Amount:			Rs.180.00
+ Total Amount:			Rs.19880.00
+========================================

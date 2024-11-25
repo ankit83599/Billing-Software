@@ -1,0 +1,21 @@
+	 Welcome Shopping Mall
+ Bill Number:9948
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+========================================= IPhone_X		1		40000
+ IPhone_X		1		40000
+ IPhone_X		1		40000
+ IPhone_X		1		40000
+ IPhone_X		1		40000
+ IPhone_X		1		40000
+ IPhone_X		1		40000
+ IPhone_X		1		40000
+
+ ========================================
+ Sub Amount:			Rs.360000.00
+ Tax Amount:			Rs.3200.00
+ Total Amount:			Rs.363200.00
+=========================================

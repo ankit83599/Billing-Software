@@ -1,0 +1,12 @@
+	 Welcome Shopping Mall
+ Bill Number:5189
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+=========================================
+
+ Levis		1		5000
+ Spykar		1		7000
+ Spykar		1		7000

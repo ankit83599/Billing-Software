@@ -1,0 +1,16 @@
+	 Welcome Shopping Mall
+ Bill Number:9770
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ =========================================
+ Product		QTY		Price
+ =========================================
+ ========================================
+ Sub Amount:			Rs.18000.00
+
+ ========================================
+ Sub Amount:			Rs.18000.00
+ Tax Amount:			Rs.110.00
+ Total Amount:			Rs.18110.00
+ ========================================

@@ -1,0 +1,17 @@
+	 Welcome Shopping Mall
+ Bill Number:2955
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product	QTY		Price
+=========================================
+ Polo		1		1500
+ Roadster		1		1800
+ Jack&Jones		1		1700
+
+========================================
+ Sub Amount:				Rs.5000.00
+ Tax Amount:				Rs.33.00
+ Total Amount:				Rs.5033.00
+========================================

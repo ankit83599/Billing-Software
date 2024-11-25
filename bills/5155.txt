@@ -1,0 +1,17 @@
+	 Welcome Shopping Mall
+ Bill Number:5155
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=========================================
+ Product		QTY		Price
+=========================================
+ IPhone_X		1		40000
+ IPhone_11		1		60000
+ IPhone_12		1		85000
+
+========================================
+ Sub Amount:			Rs.185000.00
+ Tax Amount:			Rs.1000.00
+ Total Amount:			Rs.186000.00
+========================================

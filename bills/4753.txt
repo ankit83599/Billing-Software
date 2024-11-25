@@ -1,0 +1,16 @@
+	 Welcome Shopping Mall
+ Bill Number:4753
+ Customer Name:
+ Phone Number:
+ Customer Email:
+=====================================
+ Product		QTY		Price
+===================================== Fair&Lovely		1		25
+ Ponds		1		20
+ Olay		1		25
+
+=====================================
+ Sub Amount:			Rs.95.00
+ Tax Amount:			Rs.0.70
+ Total Amount:			Rs.95.70
+======================================
